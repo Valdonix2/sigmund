@@ -1,0 +1,1 @@
+cmd.exe /c "set __COMPAT_LAYER=RunAsInvoker && "C:\Program Files (x86)\NetSupport\NetSupport School\pcicfgui.exe""
